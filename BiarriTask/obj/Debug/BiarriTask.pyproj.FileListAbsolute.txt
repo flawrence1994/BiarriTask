@@ -1,0 +1,15 @@
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\attach_server.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\visualstudio_py_debugger.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\visualstudio_py_repl.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\visualstudio_py_util.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\__init__.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\__main__.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\bin\AzureSetup.cfg
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\bin\wfastcgi.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\deployment-updated-pyvenv.cfg
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\ptvs_virtualenv_proxy.py
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\web.config
+c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\obj\Debug\web.debug.config

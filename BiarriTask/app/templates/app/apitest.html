@@ -1,0 +1,21 @@
+{% extends "app/layout.html" %}
+{% load staticfiles %}
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+        <button id="postBtn" class="btn">Post</button>
+        </div>
+    </div>
+    <div class="row">
+        <div id="results"></div>
+    </div>
+</div>
+
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{% static 'app/scripts/apitest.js' %}"></script>
+{% endblock %}

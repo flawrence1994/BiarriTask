@@ -1,0 +1,10 @@
+remote_model
+absolute_import
+django
+coreapi
+is_crispy
+format_value
+remote_field
+crispy_forms
+remote_queryset
+settings

@@ -1,0 +1,15 @@
+replace_array_index
+category
+six
+is_valid_javascript_identifier
+valid_jsid_categories_start
+array_index_regex
+test
+is_reserved_js_word
+has_valid_array_index
+valid_jsid_chars
+valid_jsid_categories
+unicode_literals
+doctest
+re
+is_valid_jsonp_callback_value

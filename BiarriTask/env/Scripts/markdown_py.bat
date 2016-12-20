@@ -1,0 +1,1 @@
+@"c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\env\Scripts\python.exe" "c:\users\fel1g\documents\visual studio 2015\Projects\BiarriTask\BiarriTask\env\Scripts\markdown_py" %*

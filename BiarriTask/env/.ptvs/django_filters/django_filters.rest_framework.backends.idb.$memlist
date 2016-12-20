@@ -1,0 +1,14 @@
+BaseFilterBackend
+template_render
+six
+filterset
+absolute_import
+template_path
+CRISPY_TEMPLATE
+compat
+Template
+TemplateDoesNotExist
+loader
+FILTER_TEMPLATE
+DjangoFilterBackend
+template_default
