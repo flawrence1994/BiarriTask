@@ -127,6 +127,12 @@ class LineView(APIView):
                 items = Line.objects.filter(text__icontains=str(value))
                 #items.append(Line.objects.filter(text__istartswith=str(value)))
                 #items.append(Line.objects.filter(text__endswith=str(value)))
+            elif key.lower() == 'speaker':
+                items = Line.objects.filter(speaker=Speaker.objects.filter(name=str(value)))
+            elif key.lower() == 'play':
+                items = Line.objects.filter(play=Play.objects.filter(name=str(value)))
+            elif key.lower() == 'speech':
+                items = Line.objects.filter(speech_no=int(value))
             else:
                 items = Line.objects.filter(id=int(value))
             return items
