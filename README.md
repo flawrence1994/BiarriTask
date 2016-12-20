@@ -24,7 +24,7 @@ GET and DELETE can be tested using the following URLs:
   r'^lines/?((?P\<key>[\w]+)=?(?P\<value>[\w\s.]+))/$'
   
   
-I.e. to retrive all lines go to /lines/
+I.e. to retrieve all lines go to /lines/
      to retrieve the first 10 lines go to /lines/10
      to retrieve all lines containing the words 'and so' go to /lines/text=and so
 
